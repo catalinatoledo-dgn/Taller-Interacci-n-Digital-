@@ -14,4 +14,19 @@ Partimos con una problemática, observamos, levantando datos para identificar un
   - Sesgos: Proyectar experiencias propias sobre otras personas 
   - Complejidad: Los problemas forman parte de sistemas mayores 
   - Tiempo: Comenzar a diseñar demasiado pronto 
-  - Experiencia: Desconocer las capacidades, prácticas o contextos del grupo estudiado 
+  - Experiencia: Desconocer las capacidades, prácticas o contextos del grupo estudiado
+
+
+## Persona usuaria y contexto
+“No basta con definir un segmento demográfico, la persona debe estar contextualizado desde la evidencia” 
+La necesidad es distinta a la solución, la necesidad aparece después de comprender la necesidad.
+
+- Síntoma: Lo que observamos la persona abandona el proceso
+  
+  - USUARIO + CONTEXTO
+  - NECESIDAD
+  - EVIDENCIA
+  - SÍNTOMA
+  - HALLAZGO + INSIGHT
+
+  la formulación debe surgir de la investigación y evitar adelantar la solución.
