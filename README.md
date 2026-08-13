@@ -52,3 +52,15 @@ Circuito —-> Voltaje (V) —-> Corriente (I) —-> Resistencia (R)
 V = R x I
 
 Corto circuito = Electrones que circulan de forma acelerada, la energía liberada es enorme.
+
+VCC Voltaje = Fuerza electromotriz necesaria para trasladar electrones, es la fuerza que permite que los electrones pasen.
+
+Resistencia eléctrica = Igualdad de oposición que tienen los electrones para desplazarse a través de un conductor. 
+
+Corriente eléctrica = Tasa a la cual fluye la carga, es la cantidad de carga que atraviesa una superficie por unidad de tiempo. Se mide en culombios x segundo, equivale a un amperio (A).
+
+Hay 2 tipos de corriente
+Continúa o directa = Fluye siempre en un mismo sentido, como la q proveen baterías comunes
+Alterna = Cambia periódicamente de sentido y es producida por un generador de corriente alterna, es la que encontramos en la red doméstica.
+
+Resistividad = Indica que tanto se opone al paso de la corriente eléctrica, a la inversa se denomina conductividad.
