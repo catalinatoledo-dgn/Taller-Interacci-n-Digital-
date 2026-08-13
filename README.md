@@ -40,3 +40,14 @@ foto
 
 ## Doble diamante 
 foto 
+
+## Circuitos eléctricos
+Transfiere energía eléctrica en otra forma de luz, calor, movimiento, etc. Es un elemento conductor, el camino “circuito eléctrico” 
+
+Circuito abierto = Flujo de corriente que circula 
+Circuito cerrado = No circula corriente por estar interrumpido o no comunicado al circuito
+
+Circuito —-> Voltaje (V) —-> Corriente (I) —-> Resistencia (R)
+V = R - I
+
+Corto circuito = Electrones que circulan de forma acelerada, la energía liberada es enorme.
