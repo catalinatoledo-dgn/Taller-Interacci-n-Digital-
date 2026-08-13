@@ -1,2 +1,4 @@
-# Taller-Interacci-n-Digital-
+# Taller Interacción Digital 
+## Catalina Toledo
 Bitácora taller
+
