@@ -30,3 +30,7 @@ La necesidad es distinta a la solución, la necesidad aparece después de compre
   - HALLAZGO + INSIGHT
 
   la formulación debe surgir de la investigación y evitar adelantar la solución.
+
+  * NFC: Comparte información por contacto, es una tecnología de comunicación inalámbrica de corto alcance que permite la transmisión instantánea de datos entre dispositivos.
+
+Hacernos cargo de al menos 1 (2 de preferencia) objetivo de desarrollo sostenible de la ONU, para futuros encargos/trabajos.
