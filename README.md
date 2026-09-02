@@ -73,4 +73,7 @@ Proyecto basado en la metamorfosis, con un pequeño movimiento ocurre una transf
 Deforestación, tala ilegal, muerte a ecosistemas. (Perjudica la salud ecológica).
 ## ¿Cómo?
 Sistema con chip NE555, con sensores de movimiento.
-![Imagenes]() 
+
+![Imagenes](IMG_1295.jpeg) 
+![Imagenes](IMG_1295.jpeg) 
+![Imagenes](IMG_1295.jpeg) 
