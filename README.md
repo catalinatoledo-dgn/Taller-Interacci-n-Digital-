@@ -100,7 +100,7 @@ Fuerza o actividad esencial mediante la posee el ser que la obra - RAE.
 - Destrucción de los ecosistemas
 
 ## IA
-![Imagenes](IMG_1294.jpeg)
+![Imagenes](IMG_1050.jpeg)
 
 ## Proyecto finalizado
 [![Ver video en YouTube](https://youtu.be/mODX0HvWsiU)](https://youtu.be/mODX0HvWsiU)
