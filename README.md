@@ -76,7 +76,7 @@ Sistema con chip NE555, con sensores de movimiento + una mariposa de origami.
 
 ![Imagenes](IMG_1294.jpeg) 
 ![Imagenes](IMG_1295.jpeg) 
-![Imagenes](IMG_1295.jpeg) 
+![Imagenes](719D0105-3C24-46C3-B663-519BC849436D.jpeg) 
 
 # Correcciones
 ## Nuevo concepto: Vida
@@ -98,3 +98,9 @@ Fuerza o actividad esencial mediante la posee el ser que la obra - RAE.
 - Conciencia humana
 - Impacto de la deforestación
 - Destrucción de los ecosistemas
+
+## IA
+![Imagenes](IMG_1294.jpeg)
+
+## Proyecto finalizado
+[![Ver video en YouTube](https://youtu.be/mODX0HvWsiU)](https://youtu.be/mODX0HvWsiU)
