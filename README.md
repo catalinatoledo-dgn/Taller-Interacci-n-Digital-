@@ -36,10 +36,10 @@ La necesidad es distinta a la solución, la necesidad aparece después de compre
 Hacernos cargo de al menos 1 (2 de preferencia) objetivos de desarrollo sostenible de la ONU, para futuros encargos/trabajos.
 
 ## Design thinking como proceso proyectual
-foto 
+![Imagenes](https://i.pinimg.com/736x/c7/dd/97/c7dd975eb85c7cde660d616053b562a8.jpg) 
 
 ## Doble diamante 
-foto 
+![Imagenes](https://i.pinimg.com/1200x/d2/51/54/d251543e26045194ebca578c607ce83c.jpg) 
 
 ## Circuitos eléctricos
 Transfiere energía eléctrica en otra forma de luz, calor, movimiento, etc. Es un elemento conductor, el camino “circuito eléctrico” 
@@ -64,3 +64,13 @@ Continúa o directa = Fluye siempre en un mismo sentido, como la q proveen bater
 Alterna = Cambia periódicamente de sentido y es producida por un generador de corriente alterna, es la que encontramos en la red doméstica.
 
 Resistividad = Indica que tanto se opone al paso de la corriente eléctrica, a la inversa se denomina conductividad.
+
+# Proyecto
+## Concepto: Metamorfosis
+## ¿Qué es?
+Proyecto basado en la metamorfosis, con un pequeño movimiento ocurre una transformación. (mariposa como protagonista).
+## ¿Por qué?
+Deforestación, tala ilegal, muerte a ecosistemas. (Perjudica la salud ecológica).
+## ¿Cómo?
+Sistema con chip NE555, con sensores de movimiento.
+![Imagenes]() 
