@@ -72,8 +72,29 @@ Proyecto basado en la metamorfosis, con un pequeño movimiento ocurre una transf
 ## ¿Por qué?
 Deforestación, tala ilegal, muerte a ecosistemas. (Perjudica la salud ecológica).
 ## ¿Cómo?
-Sistema con chip NE555, con sensores de movimiento.
+Sistema con chip NE555, con sensores de movimiento + una mariposa de origami.
 
+![Imagenes](IMG_1294.jpeg) 
 ![Imagenes](IMG_1295.jpeg) 
 ![Imagenes](IMG_1295.jpeg) 
-![Imagenes](IMG_1295.jpeg) 
+
+# Correcciones
+## Nuevo concepto: Vida
+Fuerza o actividad esencial mediante la posee el ser que la obra - RAE.
+## Referentes
+1- Homero Gómez y su legado sobre la importancia medioambiental.
+![Imagenes](https://i.pinimg.com/736x/c9/3d/2f/c93d2f0f84956fb09fe79dab0490c0a1.jpg)
+
+2- Luminch One, Francisco Castro 2012.
+![Imagenes](https://makezine.com/wp-content/uploads/make-images/t2bROUDZUAXdgPsN.jpg)
+
+3- Infinite Bloom, Leva 2020.
+[![Ver video en YouTube](https://youtu.be/q3ChTFZk5vI)](https://youtu.be/q3ChTFZk5vI)
+
+4- The Dream Vision exhibition, Nikas Safronov 2025.
+[![Ver video en YouTube](https://youtube.com/shorts/lSp-OasW3eA?si=imYOwus6xBYo2zjO)](https://youtube.com/shorts/lSp-OasW3eA?si=imYOwus6xBYo2zjO)
+
+## Razones
+- Conciencia humana
+- Impacto de la deforestación
+- Destrucción de los ecosistemas
