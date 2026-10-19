@@ -10,7 +10,7 @@ Desarrollo de un objeto tridimensional de al menos 40 × 40 cm que integrara car
 ### Primera Exploración 
 La luz como una sensación sensorial, un segmento tipo cúpula que cuente una historia. Inspirado en el concepto percepción como una "sensación de color".
 
-![Boceto cupula](boceto_cupula.jpg)
+![IMAGEN](boceto_cupula.jpg)
 
 ### Prototipado Formal y Estructura
 Trabajamos con cartón realizando maquetas de exploración para probar proporciones y la estructura de un hexagono.
