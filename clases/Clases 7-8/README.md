@@ -14,6 +14,8 @@ Durante esta sesión comenzamos a familiarizarnos con el trabajo práctico de el
 ### Sobre el ESP32
 Profundizamos en el funcionamiento, características y potencial de este microcontrolador, el cual será el núcleo principal para nuestras siguientes entregas y prototipos interactivos.
 
+![Boceto Iridiscencia](IMG_09.jpg)
+
 ## 2. Lectura y Reflexión
 
 **Texto:** Capítulo 1 de *Comprender los medios de comunicación: Las extensiones del ser humano* (Marshall McLuhan).
