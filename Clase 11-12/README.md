@@ -1,4 +1,4 @@
-# 🪞 Corrección del proyecto: Iridiscencia
+# Corrección del proyecto: Iridiscencia
 
 ## 1. Proyecto
 Para esta entrega presentamos el desarrollo de una minifalda interactiva (*wearable*) inspirada en el trabajo de Paco Rabanne y el fenómeno óptico de la iridiscencia presente en la naturaleza. El propósito del objeto es ser utilizado en contextos de fiesta para que las personas puedan vestirse libremente sin sentirse vulnerables (especialmente mujeres), funcionando como un mecanismo de defensa biomimético y señal de advertencia.
@@ -24,3 +24,5 @@ Durante la corrección, los profesores nos señalaron que la propuesta conceptua
 **Integración electrónica** 
 **Programación y conectividad** 
 **Presentación**
+
+![Boceto Iridiscencia](IMG_11.jpg)
