@@ -97,3 +97,5 @@ Al solicitar interacciones avanzadas, se recomienda seguir estos principios de d
 Para coordinar interacciones avanzadas (por ejemplo, comportamientos tipo mosaico o sensores de emergencia por toques), la lógica debe contemplar los siguientes estados:
 
 Reposo - Input - Trigger - Output - Transición - Retorno - Feedback
+
+![Boceto Iridiscencia](IMG_22.jpg)
