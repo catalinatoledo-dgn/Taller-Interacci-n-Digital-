@@ -26,3 +26,74 @@ Durante la corrección, los profesores nos señalaron que la propuesta conceptua
 **Presentación**
 
 ![Boceto Iridiscencia](IMG_11.jpg)
+
+# Clase 12
+# Vibe Coding y Metodología de Trabajo con IA
+
+##  ¿Qué es el Vibe Coding?
+Es programar describiendo ideas en **lenguaje natural** (la forma en que nos comunicamos con las personas) hacia una máquina, utilizando una interfaz de Inteligencia Artificial como canal de desarrollo.
+
+## Ciclo de Trabajo (Iteración)
+
+1. **Describir:** Expresar la interacción en palabras simples.
+2. **Generar:** La IA transcribe la idea y describe el código.
+3. **Verificar:** Revisar asignación de pines, librerías, rangos y parámetros técnicos (evita que los componentes se quemen).
+4. **Probar:** Cargar el código compilado directamente al ESP32.
+5. **Observar:** Evaluar si el comportamiento físico coincide con lo requerido. *(Si no resulta, se vuelve al paso 1)*.
+
+**Regla de oro:** Verificar siempre el código antes de cargar para evitar sobrecargas o quemar componentes electrónicos.
+
+##  Criterio: *"La IA propone, el diseñador decide"*
+
+El proceso requiere **Intención, Juicio y Comprensión**:
+**Sin intención clara:** La IA tomará las decisiones de diseño por ti.
+**Sin capacidad de selección:** Aceptaras cualquier propuesta sin evaluar alternativas.
+**Sin comprensión del código:** No podrás explicar ni argumentar el funcionamiento del proyecto.
+
+## Delegación de Tareas
+
+### Lo que SÍ se delega a la IA:
+* Sintaxis del lenguaje de programación.
+* Estructuración general del código.
+* Inclusión de librerías.
+* Solución de elementos técnicos específicos.
+
+### Lo que NO se delega (Rol del Diseñador):
+* La definición del alcance y cierre del proyecto.
+* La experiencia emocional y lo que debe sentir la persona al interactuar.
+* La toma de decisiones finales entre distintas alternativas.
+* Definir si el circuito y la estructura son seguros para el usuario y los componentes.
+
+ *"El oficio se entrena: en cada vuelta, cambia a mano al menos un valor y observa qué pasa en el comportamiento del objeto."*
+
+## Advertencias y Cuidados sobre la IA
+La IA no posee contexto físico de tu montaje:
+**No conoce los pines físicos** reales de tu placa.
+**No sabe la fuente de alimentación** o batería que estás utilizando.
+**No percibe la sensación sensorial** ni el efecto en el espacio.
+**No reemplaza la revisión del pinout** técnico del ESP32.
+
+## Estructura de un Prompt Efectivo
+
+Para obtener código funcional, la instrucción (prompt) debe incluir 4 componentes clave:
+
+1. **Contexto:** Entregar a detalle los materiales y componentes con los que se trabaja.
+2. **Comportamiento:** Describir paso a paso qué debiese suceder en la interacción.
+3. **Restricciones:** Definir límites claros (brillo máximo, uso de `delay()`, rangos de sensores).
+4. **Formato de entrega:** Pedir el código completo, comentado y con la lista explícita de conexiones.
+
+## Estrategias para Prompts Complejos
+
+Al solicitar interacciones avanzadas, se recomienda seguir estos principios de diálogo con la IA:
+
+**Pedir preguntas previas:** *"Hazme 3 preguntas sobre lo que no haya quedado claro antes de escribir el código"*.
+**Solicitar alternativas:** Pedir distintas opciones de lógica para elegir la mejor.
+**Lógica primero:** Pedir que desglose el diagrama de flujo o la estructura lógica antes de programar.
+**Construir por etapas:** Progresar desde lo más simple hacia lo complejo.
+**Formular hipótesis:** Escribir la hipótesis del resultado esperado antes de generar el código.
+
+## Máquina de Estados (Crear interacciones complejas)
+
+Para coordinar interacciones avanzadas (por ejemplo, comportamientos tipo mosaico o sensores de emergencia por toques), la lógica debe contemplar los siguientes estados:
+
+Reposo - Input - Trigger - Output - Transición - Retorno - Feedback
