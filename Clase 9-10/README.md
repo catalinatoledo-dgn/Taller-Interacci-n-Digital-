@@ -10,7 +10,7 @@ Desarrollo de un objeto tridimensional de al menos 40 × 40 cm que integrara car
 ### Primera Exploración 
 La luz como una sensación sensorial, un segmento tipo cúpula que cuente una historia. Inspirado en el concepto percepción como una "sensación de color".
 
-![Imagenes](boceto_cupula.jpg)
+![Boceto Cúpula](boceto%20cupula.jpg)
 
 ### Prototipado Formal y Estructura
 Trabajamos con cartón realizando maquetas de exploración para probar proporciones y la estructura de un hexagono.
@@ -23,14 +23,12 @@ Soldamos la cinta LED en una configuración hexagonal diseñada para instalarse 
 ### Corrección
 Debemos de replantearnos la estructura de nuestro prototipo, así también como que es lo que queremos proyectar como dupla y cambiar el concepto de percepción a fragmentación.
 
-*boceto ideas
+![Boceto Corrección](boceto%20correcci%C3%B3n.jpg)
 
 ## CLASE 10: Abstracción, Materialidad y Sensores
 
 ### 🔄 Replanteamiento del Objeto
 Para esta sesión redefinimos el nuevo concepto y cambiamos por completo nuestro prototipo. Pasando de una cúpula a una falda con leds integrados.
-
-*bocetos
 
 ### Investigación de Referentes 
 1. **Behnaz Farahi - Caress of the gaze** 
