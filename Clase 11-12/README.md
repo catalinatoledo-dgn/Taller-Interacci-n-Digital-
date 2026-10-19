@@ -98,4 +98,4 @@ Para coordinar interacciones avanzadas (por ejemplo, comportamientos tipo mosaic
 
 Reposo - Input - Trigger - Output - Transición - Retorno - Feedback
 
-![Boceto Iridiscencia](IMG_22.jpg)
+![Boceto Iridiscencia Activa](https://github.com/catalinatoledo-dgn/Taller-Interacci-n-Digital-/blob/main/Clase%2011-12/IMG_22.jpeg?raw=true)
