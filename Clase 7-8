@@ -1,0 +1,41 @@
+# Bitácora de Clases: Electrónica, Soldadura y Experiencias Sensoriales
+
+Este repositorio recopila los apuntes, reflexiones y referentes vistos en las últimas sesiones, abarcando desde la introducción al hardware y la soldadura hasta charlas sobre diseño de experiencias y tecnología.
+
+
+## 1. Introducción a la Soldadura y Nuevos Componentes
+
+Durante esta sesión comenzamos a familiarizarnos con el trabajo práctico de electrónica y soldadura, aprendiendo a manipular correctamente el cautín y los componentes que utilizaremos en los próximos proyectos.
+
+### Lista de materiales requeridos:
+* **Microcontrolador:** 1 ESP32 + 1 cable USB de conexión
+* **Iluminación:** 1 Cinta LED WS2812B programable
+* **Electrónica pasiva:** Resistencias de 330 Ω y Condensadores electrolíticos de 1000 μF
+* **Prototipado y herramientas:** 1 Protoboard, Cautín, Estaño, Pasta de soldar y Pelacables
+
+###  Sobre el ESP32
+Profundizamos en el funcionamiento, características y potencial de este microcontrolador, el cual será el núcleo principal para nuestras siguientes entregas y prototipos interactivos.
+
+## 2. Lectura y Reflexión
+
+* **Texto:** Capítulo 1 de *Comprender los medios de comunicación: Las extensiones del ser humano* (Marshall McLuhan).
+* **Entrega:** Reflexión de una página (formato en tipografía Arial 10, sin espaciado entre líneas).
+
+
+## 3. Charla Invitado: Emilio Troncoso
+**Diseñador industrial — Universidad Mayor / Profesor de Fabricación Digital**
+
+La sesión contó con una charla enfocada en cómo el diseño de experiencias puede atravesar y amplificar los sentidos.
+
+###  La Memoria Sensorial
+Los sentidos actúan como un puente directo con la memoria: nos conectan con vivencias pasadas, reactivan recuerdos y construyen un vínculo emocional profundo con los objetos y el entorno.
+
+### 📡 Proyectos y referentes mencionados:
+* **Telematic Dreaming (1992):** Exploración temprana sobre la experiencia, la comunicación telemática y la conexión a distancia entre personas mediante la tecnología.
+* **Remote Pulse (2019):** Proyecto orientado a generar vínculos físicos a distancia utilizando materiales sensitivos propios de la robótica blanda (como silicona, MepSil Gel 0020 y sensores de presión). 
+  * *Ejemplo destacado:* Un dispositivo wearable para la mano que, al capturar el pulso de otra persona en tiempo real, se inflaba simulando su respiración, permitiendo percibir su presencia de forma orgánica.
+
+### Comunicación, Emoción y Materialidades
+* **Conexión relacional:** La emoción comunica a través de gestos, lenguaje, mensajes y el tacto. Como analogía: *una llamada es una extensión de la voz; un mensaje es una extensión de la mente.*
+* **Contexto y materialidad:** Se discutió el uso de textiles técnicos (como telas a base de cobre) en contextos restrictivos o normados, como el ámbito clínico, donde la materialidad debe responder estrictamente al entorno de uso.
+* **Proyecto destacado — La chaqueta que siente la música:** Un desarrollo que traduce las ondas sonoras en estímulos físicos sobre el cuerpo, transformando el sonido en una experiencia corporal tangible.
