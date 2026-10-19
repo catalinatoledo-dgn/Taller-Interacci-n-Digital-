@@ -3,10 +3,10 @@
 En esta entrega final presentamos el prototipo de **Iridiscencia Activa**, un proyecto *wearable* (minifalda interactiva) diseñado para entornos nocturnos y de fiesta, cuyo objetivo principal es brindar seguridad y autonomía al público femenino para evitar situaciones de vulnerabilidad.
 
 ## Falda wearable en proceso
+![Proceso](IMG_26.jpeg)
 
 ## Lámina de Presentación 
-
-<img src="https://github.com/catalinatoledo-dgn/Taller-Interacci-n-Digital-/blob/main/Clase%2011-12/IMG_22.jpeg?raw=true" alt="Boceto Iridiscencia Activa" width="600">
+![Lámina 2](IMG_266.jpeg)
 
 ## Desarrollo, Aprendizajes y Trabajo Autónomo
 
@@ -23,4 +23,4 @@ Pese a la frustración e incertidumbre de que los LED fallaran a último minuto,
  3. **El valor del prototipo:** Entender que los fallos en la electrónica son parte real del proceso de prototipado e interacción digital, dejándome una base sólida de conocimientos para seguir puliendo el proyecto.
 
 ## Prototipo finalizado
-
+![Final](IMG_2666.jpeg)
