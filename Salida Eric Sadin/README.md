@@ -7,7 +7,7 @@
 * Ordenan conductas / Hace 10 años ocurre.
 > *"¡Seres humanos reducidos a robots!"*
 
-### 2. Segunda Dimensión (Obj. 2)
+### 2. IA - 2ª Dimensión 
 * Sistemas que nos interpretan y nos dan señales.
 * La IA también puede ayudar a afinar moléculas, no es del todo mala.
 
@@ -64,3 +64,4 @@
 La reflexión de Éric Sadin nos advierte sobre una transformación profunda y alarmante en la era contemporánea: la imposición de una primera dimensión tecnológica orientada exclusivamente al rendimiento financiero y a la hiperrealización de la sociedad, donde los seres humanos corren el riesgo de ser reducidos a meros "robots". A medida que delegamos en los sistemas algorítmicos las tareas que constituyen nuestro corazón y nuestros sentidos, surge lo que el autor denomina un **"lenguaje de la muerte"** o **antilenguaje**. A diferencia de nuestro lenguaje (que es infinito en su pluralización y busca la novedad), los sistemas tecnológicos operan mediante una correlación probabilística basada en cosechar lo que ya ha existido, eliminando el diálogo genuino y reemplazándolo por un intercambio estéril. Esta pérdida de pluralidad y el peso de una supuesta "omnisciencia creciente" configuran la forma contemporánea más profunda de alienación, donde incluso el imperativo de "pensar por uno mismo" se ve colonizado por la estandarización. Frente a esta "masa de inútiles" y al riesgo de sentir que ya no pertenecemos, la gran interrogante que nos deja Sadin es recuperar el rol singular de cada individuo frente a una tecnología que uniforma y despoja a la sociedad de su inocencia y autenticidad.
 
 **Fotos de ese día**
+![Éric Sadin](80ED93C1-7BFC-4CBA-8906-D76EFA029472.jpeg)
