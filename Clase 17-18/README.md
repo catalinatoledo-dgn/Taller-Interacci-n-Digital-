@@ -18,6 +18,8 @@
 * * Palomas gobiernan Plaza de Armas.
 * Personas que pasean con sus perros.
 
+**Imagenes interesantes**
+![Foto](PHOTO-2026-10-24-00-32-44.jpg)
 ---
 
 ## 2. Preguntas y Reflexiones Críticas
@@ -27,6 +29,8 @@
 * ¿Le tememos más a las palomas que nosotras a ellas?
 
 ---
+**LLegamos a un proyecto funcional que finalmente fue rechazado**
+
 
 ## 3. Notas Laterales y Conceptos
 * **Coexistencia interespecie**
@@ -46,3 +50,7 @@
 
 ## Idea Final del Grupo
 * **Idea Proyectual:** Como grupo llegamos a la idea final de realizar un proyecto donde **crearemos música mediante las palomas y su aleteo**.
+
+**Avance**
+
+![Foto](PHOTO-2026-11-08-20-45-18.jpg)
